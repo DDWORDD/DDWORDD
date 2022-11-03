@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DDWORDD
-- 👀 I’m interested in coding/making exploits
+- 👀 I’m interested in coding/making exploits/pentesting/etc
 - 💞️ I’m looking to collaborate on multiple projects related to game exploiting and other things (open for anything)
 
 
